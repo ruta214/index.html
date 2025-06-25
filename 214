@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Ruta 214</title>
+  <style>
+    body { font-family: Arial, sans-serif; margin: 0; background: #f4f4f4; }
+    header { background: #333; color: #fff; padding: 30px 0; text-align: center; }
+    nav { background: #444; padding: 10px 0; text-align: center; }
+    nav a { color: #fff; margin: 0 15px; text-decoration: none; }
+    section { max-width: 800px; margin: 40px auto; background: #fff; padding: 30px; border-radius: 8px; box-shadow: 0 2px 8px #0002; }
+    h2 { color: #333; }
+    .proyecto { margin-bottom: 25px; }
+    footer { background: #333; color: #fff; text-align: center; padding: 15px 0; position: fixed; width: 100%; bottom: 0; }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Grupo Lazcano</h1>
+    <p>Mapas de rutas urbanas y transporte de personal - </p>
+  </header>
+  <nav>
+    <a href="#sobre-mi">Sobre mí</a>
+    <a href="#proyectos">Proyectos</a>
+    <a href="#contacto">Contacto</a>
+  </nav>
+  <section id="sobre-mi">
+    <h2>Sobre mí</h2>
+    <p>
+      ¡Hola! Soy [Tu nombre], un apasionado por el desarrollo web. Aquí podrás ver algunos de mis proyectos.
+    </p>
+  </section>
+  <section id="proyectos">
+    <h2>Proyectos</h2>
+    <div class="proyecto">
+      <h3>Proyecto 1</h3>
+      <p>Descripción breve de tu proyecto. ¿Qué tecnologías utilizaste?</p>
+      <a href="#">Ver más</a>
+    </div>
+    <div class="proyecto">
+      <h3>Proyecto 2</h3>
+      <p>Descripción breve de tu proyecto.</p>
+      <a href="#">Ver más</a>
+    </div>
+  </section>
+  <section id="contacto">
+    <h2>Contacto</h2>
+    <p>Puedes contactarme en: <a href="mailto:tuemail@ejemplo.com">tuemail@ejemplo.com</a></p>
+  </section>
+  <footer>
+    © 2025 Tu Nombre
+  </footer>
+</body>
+</html>
