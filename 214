@@ -21,26 +21,26 @@
     <p>Mapas de rutas urbanas y transporte de personal - </p>
   </header>
   <nav>
-    <a href="#sobre-mi">Sobre mí</a>
-    <a href="#proyectos">Proyectos</a>
-    <a href="#contacto">Contacto</a>
+    <a href="#rutas">Mapas rutas urbanas</a>
+    <a href="#link">Mapas Link</a>
+    <a href="#quejas">Buzon de quejas y sugerencias</a>
   </nav>
-  <section id="sobre-mi">
-    <h2>Sobre mí</h2>
+  <section id="rutas">
+    <h2>Mapas</h2>
     <p>
-      ¡Hola! Soy [Tu nombre], un apasionado por el desarrollo web. Aquí podrás ver algunos de mis proyectos.
+      Bienvenido. Aqui podra encontrar los mapas de los diferentes ramales de Ruta214 y Link tu transporte.
     </p>
   </section>
-  <section id="proyectos">
-    <h2>Proyectos</h2>
+  <section id="link">
+    <h2>Link</h2>
     <div class="proyecto">
-      <h3>Proyecto 1</h3>
-      <p>Descripción breve de tu proyecto. ¿Qué tecnologías utilizaste?</p>
+      <h3>Abrir lista de mapas</h3>
+      <p>Clic aqui </p>
       <a href="#">Ver más</a>
     </div>
-    <div class="proyecto">
+    <div class="quejas">
       <h3>Proyecto 2</h3>
-      <p>Descripción breve de tu proyecto.</p>
+      <p>Buzon de quejas y sugerencias.</p>
       <a href="#">Ver más</a>
     </div>
   </section>
